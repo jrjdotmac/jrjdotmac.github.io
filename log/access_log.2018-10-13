@@ -1,0 +1,4 @@
+5.196.76.206 - - [13/Oct/2018:10:52:53 -0400] "GET / HTTP/1.0" 403 660 "-" "Apache-HttpClient/4.5.5 (Java/1.8.0_181)"
+84.236.19.22 - - [13/Oct/2018:16:26:13 -0400] "GET / HTTP/1.0" 403 660 "https://brandnewblogs.com/site-browser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0"
+84.236.19.22 - - [13/Oct/2018:16:31:39 -0400] "GET / HTTP/1.0" 403 660 "https://brandnewblogs.com/site-browser" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0"
+163.47.20.90 - - [13/Oct/2018:20:00:29 -0400] "GET /robots.txt HTTP/1.0" 404 575 "-" "Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)"

@@ -1,0 +1,7 @@
+[Wed Oct 10 08:58:22 2018][error] [client 199.185.175.89] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Wed Oct 10 08:53:09 2018][error] [client 199.185.175.89] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/favicon.ico, referer: http://www.employday.com/
+[Wed Oct 10 10:31:46 2018][error] [client 199.185.175.89] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Wed Oct 10 17:59:35 2018][error] [client 66.249.66.128] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/robots.txt
+[Wed Oct 10 17:59:35 2018][error] [client 66.249.66.159] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Wed Oct 10 19:46:47 2018][error] [client 35.163.175.150] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Wed Oct 10 20:57:55 2018][error] [client 95.216.9.16] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/

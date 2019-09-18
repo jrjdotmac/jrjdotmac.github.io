@@ -1,0 +1,3 @@
+162.243.74.205 - - [28/Sep/2018:03:14:23 -0400] "GET / HTTP/1.0" 200 49489 "google.com" "Mozilla"
+128.199.171.73 - - [28/Sep/2018:04:23:52 -0400] "GET / HTTP/1.0" 200 272 "-" "Java/1.8.0_45"
+91.210.146.170 - - [28/Sep/2018:07:33:08 -0400] "GET /blog/ HTTP/1.0" 404 575 "http://employday.com/blog/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36"

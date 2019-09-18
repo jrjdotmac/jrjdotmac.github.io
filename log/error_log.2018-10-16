@@ -1,0 +1,17 @@
+[Tue Oct 16 00:16:13 2018][error] [client 84.22.158.215] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/administrator
+[Tue Oct 16 00:22:11 2018][error] [client 84.22.158.215] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/wp-admin, referer: http://employday.com/wp-login.php
+[Tue Oct 16 00:17:33 2018][error] [client 84.22.158.215] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/admin
+[Tue Oct 16 00:30:45 2018][error] [client 95.181.2.93] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/administrator
+[Tue Oct 16 00:32:59 2018][error] [client 95.181.2.93] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/wp-admin, referer: http://employday.com/wp-login.php
+[Tue Oct 16 00:32:55 2018][error] [client 95.181.2.93] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/admin
+[Tue Oct 16 00:37:41 2018][error] [client 178.46.20.1] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/administrator
+[Tue Oct 16 00:47:14 2018][error] [client 178.46.20.1] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/wp-admin, referer: http://employday.com/wp-login.php
+[Tue Oct 16 00:50:15 2018][error] [client 178.46.20.1] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/admin
+[Tue Oct 16 00:54:40 2018][error] [client 85.192.188.7] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/administrator
+[Tue Oct 16 01:04:55 2018][error] [client 85.192.188.7] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/wp-admin, referer: http://employday.com/wp-login.php
+[Tue Oct 16 01:09:13 2018][error] [client 85.192.188.7] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/admin
+[Tue Oct 16 01:25:57 2018][error] [client 141.105.34.139] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/administrator
+[Tue Oct 16 01:28:20 2018][error] [client 141.105.34.139] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/wp-admin, referer: http://employday.com/wp-login.php
+[Tue Oct 16 01:31:15 2018][error] [client 141.105.34.139] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/admin
+[Tue Oct 16 12:56:34 2018][error] [client 104.130.136.89] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Tue Oct 16 20:02:59 2018][error] [client 147.135.4.73] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/

@@ -1,0 +1,4 @@
+66.249.66.10 - - [14/Oct/2018:11:42:15 -0400] "GET /robots.txt HTTP/1.0" 404 575 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.14 - - [14/Oct/2018:11:42:15 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+163.47.20.99 - - [14/Oct/2018:12:25:49 -0400] "GET /robots.txt HTTP/1.0" 404 575 "-" "Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)"
+190.112.223.131 - - [14/Oct/2018:14:12:17 -0400] "GET /robots.txt HTTP/1.0" 404 575 "-" "Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)"

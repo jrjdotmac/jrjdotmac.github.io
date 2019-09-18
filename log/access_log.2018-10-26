@@ -1,0 +1,2 @@
+66.249.70.8 - - [26/Oct/2018:23:17:34 -0400] "GET /robots.txt HTTP/1.0" 404 575 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.70.4 - - [26/Oct/2018:23:23:34 -0400] "GET /images/favicon.png HTTP/1.0" 200 955 "-" "Googlebot-Image/1.0"

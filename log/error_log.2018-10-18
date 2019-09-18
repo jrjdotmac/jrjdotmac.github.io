@@ -1,0 +1,10 @@
+[Thu Oct 18 01:41:25 2018][error] [client 59.110.168.12] File does not exist: /data/templates/inquent.netsol/suspend_other/console
+[Thu Oct 18 01:42:54 2018][error] [client 59.110.168.12] File does not exist: /data/templates/inquent.netsol/suspend_other/status
+[Thu Oct 18 01:53:07 2018][error] [client 115.47.144.131] File does not exist: /data/templates/inquent.netsol/suspend_other/console
+[Thu Oct 18 01:46:11 2018][error] [client 115.47.144.131] File does not exist: /data/templates/inquent.netsol/suspend_other/status
+[Thu Oct 18 03:37:38 2018][error] [client 120.77.205.153] File does not exist: /data/templates/inquent.netsol/suspend_other/console
+[Thu Oct 18 03:37:39 2018][error] [client 120.77.205.153] File does not exist: /data/templates/inquent.netsol/suspend_other/status
+[Thu Oct 18 05:20:02 2018][error] [client 201.139.102.246] File does not exist: /data/templates/inquent.netsol/suspend_other/console
+[Thu Oct 18 05:21:26 2018][error] [client 201.139.102.246] File does not exist: /data/templates/inquent.netsol/suspend_other/status
+[Thu Oct 18 21:01:20 2018][error] [client 47.100.190.96] File does not exist: /data/templates/inquent.netsol/suspend_other/status
+[Thu Oct 18 21:01:18 2018][error] [client 47.100.190.96] File does not exist: /data/templates/inquent.netsol/suspend_other/console

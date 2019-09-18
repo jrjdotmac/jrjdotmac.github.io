@@ -1,0 +1,12 @@
+[Thu Oct 11 17:42:22 2018][error] [client 104.239.135.176] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Thu Oct 11 19:01:02 2018][error] [client 104.255.231.11] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Thu Oct 11 19:01:02 2018][error] [client 104.168.68.195] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Thu Oct 11 19:01:02 2018][error] [client 104.168.123.19] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Thu Oct 11 18:59:37 2018][error] [client 23.245.224.241] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Thu Oct 11 19:06:21 2018][error] [client 107.172.245.157] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Thu Oct 11 19:03:35 2018][error] [client 66.249.66.14] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/robots.txt
+[Thu Oct 11 19:08:52 2018][error] [client 66.249.66.14] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Thu Oct 11 21:31:59 2018][error] [client 104.239.135.176] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/, referer: http://employday.com/
+[Thu Oct 11 22:13:13 2018][error] [client 158.69.25.178] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/robots.txt
+[Thu Oct 11 22:13:13 2018][error] [client 158.69.25.178] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/robots.txt
+[Thu Oct 11 22:11:48 2018][error] [client 158.69.25.178] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/

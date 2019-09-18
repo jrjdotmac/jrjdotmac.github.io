@@ -1,0 +1,4 @@
+82.80.249.214 - - [30/Sep/2018:00:33:34 -0400] "GET / HTTP/1.0" 200 272 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36"
+159.203.103.93 - - [30/Sep/2018:02:31:01 -0400] "GET / HTTP/1.0" 200 272 "-" "Java/1.8.0_45"
+157.55.39.0 - - [30/Sep/2018:13:26:38 -0400] "GET /robots.txt HTTP/1.0" 404 575 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+207.46.13.77 - - [30/Sep/2018:13:20:38 -0400] "GET / HTTP/1.0" 200 272 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"

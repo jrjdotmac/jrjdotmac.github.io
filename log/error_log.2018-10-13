@@ -1,0 +1,4 @@
+[Sat Oct 13 10:52:53 2018][error] [client 5.196.76.206] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/
+[Sat Oct 13 16:26:13 2018][error] [client 84.236.19.22] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/, referer: https://brandnewblogs.com/site-browser
+[Sat Oct 13 16:31:40 2018][error] [client 84.236.19.22] Directory index forbidden by Options directive: /data/12/5/98/20/5261346/user/6310928/htdocs/, referer: https://brandnewblogs.com/site-browser
+[Sat Oct 13 20:00:29 2018][error] [client 163.47.20.90] File does not exist: /data/12/5/98/20/5261346/user/6310928/htdocs/robots.txt

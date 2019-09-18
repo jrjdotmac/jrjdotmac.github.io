@@ -1,0 +1,7 @@
+199.185.175.89 - - [10/Oct/2018:08:58:22 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+199.185.175.89 - - [10/Oct/2018:08:53:09 -0400] "GET /favicon.ico HTTP/1.0" 404 575 "http://www.employday.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+199.185.175.89 - - [10/Oct/2018:10:31:46 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+66.249.66.128 - - [10/Oct/2018:17:59:35 -0400] "GET /robots.txt HTTP/1.0" 404 575 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.66.159 - - [10/Oct/2018:17:59:35 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+35.163.175.150 - - [10/Oct/2018:19:46:47 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0"
+95.216.9.16 - - [10/Oct/2018:20:57:54 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3452.0 Safari/537.36"

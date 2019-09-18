@@ -1,0 +1,7 @@
+142.93.65.85 - - [03/Oct/2018:02:53:56 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)"
+50.233.132.146 - - [03/Oct/2018:11:00:08 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0"
+50.233.132.146 - - [03/Oct/2018:11:00:08 -0400] "GET /favicon.ico HTTP/1.0" 404 575 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0"
+50.233.132.146 - - [03/Oct/2018:11:01:35 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:62.0) Gecko/20100101 Firefox/62.0"
+62.210.83.78 - - [03/Oct/2018:15:26:29 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0; vo; rv:6.0a2) Gecko/20110623 Firefox/6.0a2"
+54.193.103.227 - - [03/Oct/2018:16:29:23 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
+54.193.103.227 - - [03/Oct/2018:16:24:30 -0400] "GET / HTTP/1.0" 403 660 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36"
